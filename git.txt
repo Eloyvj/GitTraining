@@ -3,3 +3,5 @@ git commit
 git log
 git branch
 git checkout
+git clone
+git stash
